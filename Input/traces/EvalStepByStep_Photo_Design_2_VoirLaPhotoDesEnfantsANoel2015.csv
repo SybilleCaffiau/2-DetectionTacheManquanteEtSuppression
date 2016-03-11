@@ -1,0 +1,11 @@
+"Format version:","1.0"
+"Date and Time:","24 nov. 2015 15:10:58"
+"Project Name:","EvalStepByStep"
+"Design Name:","Photo_Design_2"
+"Task Hierarchy:","VoirLaPhotoDesEnfantsANoel2015"
+,
+"Frame","Action","Widget-Name","Displayed-Label","Widget-Type"
+"EcranPhotos","Think for 1.200 s","","",""
+"EcranPhotos","Move Mouse","VignettePhotoEnfantsNoel1","","Button"
+"EcranPhotos","Left Click","VignettePhotoEnfantsNoel1","","Button"
+"EcranAffichageUnePhoto"

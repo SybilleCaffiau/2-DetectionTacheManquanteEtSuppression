@@ -1,0 +1,34 @@
+wificampus-029122:Traitement sybillecaffiau$ sh TacheManquante.sh
+Début du processus de détection de tâches manquantes et suppression de bruit (étape 2)
+fichier de symbols prendre pour l'affichage (format .syms) ?
+Attention : votre fichier de symbol doit nécessairement avoir eps 0 en première ligne et R 1 en seconde ligne
+label.syms
+fichier de traces (.txt) ? 
+traceBruitee.txt
+le label T1 n'est pas trouvé dans le modèle de tâches 
+Voulez vous que cette trace ne soit pas écoutée ? (oui=1/non=0)1
+1
+le label T2 n'est pas trouvé dans le modèle de tâches 
+Voulez vous que cette trace ne soit pas écoutée ? (oui=1/non=0)1
+1
+le label T3 n'est pas trouvé dans le modèle de tâches 
+Voulez vous que cette trace ne soit pas écoutée ? (oui=1/non=0)1
+1
+le label T4 n'est pas trouvé dans le modèle de tâches 
+Voulez vous que cette trace ne soit pas écoutée ? (oui=1/non=0)1
+1
+le label T5 n'est pas trouvé dans le modèle de tâches 
+Voulez vous que cette trace ne soit pas écoutée ? (oui=1/non=0)1
+1
+le label T6 n'est pas trouvé dans le modèle de tâches 
+Voulez vous que cette trace ne soit pas écoutée ? (oui=1/non=0)1
+1
+le label T7 n'est pas trouvé dans le modèle de tâches 
+Voulez vous que cette trace ne soit pas écoutée ? (oui=1/non=0)1
+1
+0	1	1.1	1.1
+1	2	1.2	1.2
+2
+Fin du processus de detection
+Les traces qui n'ont pas été trouvé dans le modèle de tâches et que vous avez choisi de garder sont des oublis dans le modèle de tâches, il faut modifier le modèle de tâches et recommencer la procédure
+wificampus-029122:Traitement sybillecaffiau$ 

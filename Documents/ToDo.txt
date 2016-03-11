@@ -1,0 +1,1 @@
+faire trace 1.csv -> fichier de trace en entrée de la procedure de nettoyage et corres.csv qui contient la table de correspondance entre les traces de cogTool et celles du fichier pour automate
