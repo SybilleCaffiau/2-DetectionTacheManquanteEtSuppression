@@ -1,0 +1,6 @@
+Commentaires
+
+
+-Le fichier .fst produit ne doit pas avoir des epsilons
+-Nécessaire un retour à la ligne à la fin des traces .txt
+-Nom "ScenarioOK"est réservé, donc ne pas l'utiliser pour nommer les fichiers .fst
